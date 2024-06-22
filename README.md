@@ -1,3 +1,8 @@
+### URL to the website
+```shell
+https://chat-app-ioxf.onrender.com
+```
+
 ### Setup .env file
 
 ```js
